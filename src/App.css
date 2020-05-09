@@ -1,0 +1,25 @@
+#PaymentForm{
+    padding-top: 20px;
+    z-index: -1;
+    border: 1px solid red;
+}
+.whole-page{
+    background: #dbf4ff;
+    height: 100vh;
+    position: relative;
+}
+#card{
+    border: 1px solid red;
+    z-index: 100;
+}
+#formSection{
+    margin-top: -100px;
+    border: 1px solid black;
+    z-index: -1;
+    background: white;
+    border-radius: 10px;
+}
+.form-custom{
+    padding: 150px 50px 20px 50px;
+   
+}
