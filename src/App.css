@@ -1,7 +1,6 @@
 #PaymentForm{
     padding-top: 20px;
     z-index: -1;
-    border: 1px solid red;
 }
 .whole-page{
     background: #dbf4ff;
@@ -9,12 +8,10 @@
     position: relative;
 }
 #card{
-    border: 1px solid red;
     z-index: 100;
 }
 #formSection{
     margin-top: -100px;
-    border: 1px solid black;
     z-index: -1;
     background: white;
     border-radius: 10px;
